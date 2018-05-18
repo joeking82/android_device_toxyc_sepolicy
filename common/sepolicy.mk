@@ -4,10 +4,10 @@
 #
 
 BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
-    device/gzosp/sepolicy/common/public
+    device/toxyc/sepolicy/common/public
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/gzosp/sepolicy/common/private
+    device/toxyc/sepolicy/common/private
 
 BOARD_SEPOLICY_DIRS += \
-    device/gzosp/sepolicy/common/vendor
+    device/toxyc/sepolicy/common/vendor
