@@ -1,13 +1,13 @@
 #
 # This policy configuration will be used by all products that
-# inherit from Lineage
+# inherit from toxyc
 #
 
 BOARD_PLAT_PUBLIC_SEPOLICY_DIR += \
-    device/lineage/sepolicy/common/public
+    device/toxyc/sepolicy/common/public
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/lineage/sepolicy/common/private
+    device/toxyc/sepolicy/common/private
 
 BOARD_SEPOLICY_DIRS += \
-    device/lineage/sepolicy/common/vendor
+    device/toxyc/sepolicy/common/vendor
