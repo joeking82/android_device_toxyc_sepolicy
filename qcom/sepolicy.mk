@@ -4,7 +4,7 @@
 #
 
 BOARD_PLAT_PRIVATE_SEPOLICY_DIR += \
-    device/toxyc/sepolicy/qcom/private
+    device/xtended/sepolicy/qcom/private
 
 BOARD_SEPOLICY_DIRS += \
     device/toxyc/sepolicy/qcom/common \
